@@ -1,0 +1,29 @@
+{
+  "name": "@cli-engine/screen",
+  "description": "screen constants",
+  "version": "0.0.0",
+  "author": "Jeff Dickey @jdxcode",
+  "bugs": "https://github.com/jdxcode/cli-engine-screen/issues",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^8.5.2",
+    "typescript": "^2.6.2"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/jdxcode/cli-engine-screen",
+  "keywords": [
+    "cli"
+  ],
+  "license": "ISC",
+  "main": "./lib/screen.js",
+  "repository": "jdxcode/cli-engine-screen",
+  "scripts": {
+    "prepare": "cli-engine-util"
+  },
+  "types": "./lib/screen.d.ts"
+}
