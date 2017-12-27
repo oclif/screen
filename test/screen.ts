@@ -1,4 +1,4 @@
-import screen from '..'
+import {stdtermwidth, errtermwidth} from '..'
 
-console.dir(screen.stdtermwidth)
-console.dir(screen.errtermwidth)
+console.dir(stdtermwidth)
+console.dir(errtermwidth)

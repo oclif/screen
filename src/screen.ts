@@ -14,21 +14,12 @@ function termwidth(stream: any): number {
 
 const columns: number | null = (global as any)['columns']
 
-let stdtermwidth = termwidth(process.stdout)
-let errtermwidth = termwidth(process.stderr)
+export let stdtermwidth = columns || termwidth(process.stdout)
+export let errtermwidth = columns || termwidth(process.stderr)
 
 process.stdout.on('resize', () => {
-  stdtermwidth = termwidth(process.stdout)
+  stdtermwidth = columns || termwidth(process.stdout)
 })
 process.stderr.on('resize', () => {
-  errtermwidth = termwidth(process.stderr)
+  errtermwidth = columns || termwidth(process.stderr)
 })
-
-export default {
-  get errtermwidth(): number {
-    return columns || errtermwidth
-  },
-  get stdtermwidth(): number {
-    return columns || stdtermwidth
-  },
-}
