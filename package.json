@@ -25,7 +25,7 @@
         "eslint .",
         "tsc",
         "tslint -p .",
-        "commitlint --from master",
+        "commitlint --from origin/master",
         "mocha \"test/**/*.ts\""
       ],
       "lint": [
