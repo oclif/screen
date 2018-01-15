@@ -6,7 +6,6 @@ cache:
 
 install:
   - ps: Install-Product node $env:nodejs_version x64
-  - git fetch
   - yarn
 test_script:
   - yarn test
