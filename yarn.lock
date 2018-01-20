@@ -123,9 +123,9 @@
     lodash "^4.17.4"
     read-pkg "^3.0.0"
 
-"@dxcli/dev-commitmsg@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@dxcli/dev-commitmsg/-/dev-commitmsg-0.0.3.tgz#8941971c9778b675dd14c407c1123b8bef397757"
+"@dxcli/dev-commitmsg@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@dxcli/dev-commitmsg/-/dev-commitmsg-0.0.4.tgz#c26f6b5856aa50d91dd36adc18d0c48f3d0dfa61"
   dependencies:
     "@commitlint/cli" "^6.0.1"
     "@commitlint/config-conventional" "^5.2.3"
@@ -136,16 +136,16 @@
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/@dxcli/dev-nyc-config/-/dev-nyc-config-0.0.3.tgz#3ff59cf561663710f025a41f64d608d2977a3d3b"
 
-"@dxcli/dev-semantic-release@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@dxcli/dev-semantic-release/-/dev-semantic-release-0.0.3.tgz#8b6a2f9874b93fe43f432eb4eee5775d683494ee"
+"@dxcli/dev-semantic-release@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@dxcli/dev-semantic-release/-/dev-semantic-release-0.1.0.tgz#adc88f1eaee862b73ae824496d4076f3fcc5c7c9"
   dependencies:
-    "@dxcli/dev-commitmsg" "^0.0.3"
+    "@dxcli/dev-commitmsg" "^0.0.4"
     "@semantic-release/changelog" "^1.0.0"
-    "@semantic-release/git" "^2.0.1"
-    "@semantic-release/github" "^3.0.1"
-    "@semantic-release/npm" "^2.6.1"
-    semantic-release "^12.2.0"
+    "@semantic-release/git" "^2.0.2"
+    "@semantic-release/github" "^3.0.3"
+    "@semantic-release/npm" "^2.6.4"
+    semantic-release "^12.2.2"
 
 "@dxcli/dev-test@^0.5.1":
   version "0.5.1"
@@ -265,7 +265,7 @@
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@semantic-release/error/-/error-2.1.0.tgz#44771f676f5b148da309111285a97901aa95a6e0"
 
-"@semantic-release/git@^2.0.1":
+"@semantic-release/git@^2.0.2":
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/@semantic-release/git/-/git-2.0.2.tgz#00f82f338999820cf54beb8e9e3acdd5b160f571"
   dependencies:
@@ -281,7 +281,7 @@
     p-reduce "^1.0.0"
     semver "^5.4.1"
 
-"@semantic-release/github@^3.0.1":
+"@semantic-release/github@^3.0.1", "@semantic-release/github@^3.0.3":
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-3.0.3.tgz#a986fa36111a34b3cc42b1a7f41fe4f019df570b"
   dependencies:
@@ -296,7 +296,7 @@
     parse-github-url "^1.0.1"
     url-join "^3.0.0"
 
-"@semantic-release/npm@^2.0.0", "@semantic-release/npm@^2.6.1":
+"@semantic-release/npm@^2.0.0", "@semantic-release/npm@^2.6.4":
   version "2.6.4"
   resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-2.6.4.tgz#0343816d94f3d1d6539c216c2886391647e3f9b7"
   dependencies:
@@ -3936,7 +3936,7 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@~5.1.0, 
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.1.tgz#893312af69b2123def71f57889001671eeb2c853"
 
-semantic-release@^12.2.0:
+semantic-release@^12.2.2:
   version "12.2.2"
   resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-12.2.2.tgz#6f114c2e2cb55040b78f985e11b0aa7d8d2ee111"
   dependencies:
