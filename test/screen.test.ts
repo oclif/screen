@@ -1,4 +1,4 @@
-import {describe, expect} from '@dxcli/dev-test'
+import {expect} from 'chai'
 
 import {errtermwidth, stdtermwidth} from '..'
 
