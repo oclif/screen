@@ -1,7 +1,7 @@
 {
   "name": "@dxcli/screen",
   "description": "get stdout/stderr columns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/dxcli/screen/issues",
   "dependencies": {},
