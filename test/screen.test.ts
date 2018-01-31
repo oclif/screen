@@ -1,6 +1,6 @@
 import {expect} from 'chai'
 
-import {errtermwidth, stdtermwidth} from '..'
+import {errtermwidth, stdtermwidth} from '../src/screen'
 
 describe('termwidth', () => {
   it('has errtermwidth > 1', () => {
