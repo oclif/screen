@@ -1,7 +1,7 @@
 {
   "name": "@anycli/screen",
   "description": "get stdout/stderr columns",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/anycli/screen/issues",
   "dependencies": {},

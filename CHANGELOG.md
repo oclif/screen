@@ -1,3 +1,11 @@
+<a name="0.0.3"></a>
+## [0.0.3](https://github.com/anycli/screen/compare/fd93aed67c31aba9bdab0cdbd3ef02e3f6d60045...v0.0.3) (2018-01-31)
+
+
+### Bug Fixes
+
+* triggering release ([1d98378](https://github.com/anycli/screen/commit/1d98378))
+
 <a name="0.0.2"></a>
 ## [0.0.2](https://github.com/dxcli/screen/compare/09171522721e229a5052f647821d05bfb7f8271a...v0.0.2) (2018-01-28)
 
