@@ -1,3 +1,11 @@
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/oclif/screen/compare/b4a85c00ab0a24f44654926e14810ba8e3917f73...v1.0.2) (2018-02-14)
+
+
+### Bug Fixes
+
+* greenkeeper ([5f7a357](https://github.com/oclif/screen/commit/5f7a357))
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/oclif/screen/compare/v1.0.0...v1.0.1) (2018-02-13)
 
