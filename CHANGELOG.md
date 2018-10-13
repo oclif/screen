@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/oclif/screen/compare/v1.0.3...v1.0.4) (2018-10-13)
+
+
+### Bug Fixes
+
+* remove greenkeeper badge ([c2ab678](https://github.com/oclif/screen/commit/c2ab678))
+
 ## [1.0.3](https://github.com/oclif/screen/compare/v1.0.2...v1.0.3) (2018-09-14)
 
 
