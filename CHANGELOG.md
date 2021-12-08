@@ -1,3 +1,18 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [3.0.2](https://github.com/oclif/screen/compare/v1.0.4...v3.0.2) (2021-12-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* require node 12+ (#154)
+
+### build
+
+* require node 12+ ([#154](https://github.com/oclif/screen/issues/154)) ([21306ca](https://github.com/oclif/screen/commit/21306ca41107ac73abdedc24c304206f70e1c0d4))
+
 ## [1.0.4](https://github.com/oclif/screen/compare/v1.0.3...v1.0.4) (2018-10-13)
 
 
