@@ -1,7 +1,7 @@
 {
   "name": "@oclif/screen",
   "description": "get stdout/stderr columns",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "author": "Salesforce",
   "bugs": "https://github.com/oclif/screen/issues",
   "dependencies": {},
