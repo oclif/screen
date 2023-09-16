@@ -335,10 +335,10 @@
   resolved "https://registry.npmjs.org/@types/mocha/-/mocha-9.0.0.tgz#3205bcd15ada9bc681ac20bef64e9e6df88fd297"
   integrity sha512-scN0hAWyLVAvLR9AyW7HoFF5sJZglyBsbPuHO4fv7JRvfmPBMfp1ozWqOf/e4wwPNxezBZXRfWzMb6iFLgEVRA==
 
-"@types/node@^14.18.59":
-  version "14.18.59"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.59.tgz#2b61a51d875e2a4deb0c6b498ff21a78e691edc6"
-  integrity sha512-NWJMpBL2Xs3MY93yrD6YrrTKep8eIA6iMnfG4oIc6LrTRlBZgiSCGiY3V/Owlp6umIBLyKb4F8Q7hxWatjYH5A==
+"@types/node@^14.18.61":
+  version "14.18.61"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.61.tgz#752097010d85f6279b3069811bf0e99eba996096"
+  integrity sha512-1mFT4DqS4/s9tlZbdkwEB/EnSykA9MDeDLIk3FHApGvIMGY//qgstB2gu9GKGESWyW/qiRUO+jhlLJ9bBJ8j+Q==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
