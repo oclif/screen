@@ -6,7 +6,7 @@
   "bugs": "https://github.com/oclif/screen/issues",
   "dependencies": {},
   "devDependencies": {
-    "@types/chai": "^4.3.8",
+    "@types/chai": "^4.3.9",
     "@types/mocha": "^9.0.0",
     "@types/node": "^14.18.63",
     "chai": "^4.3.10",
